@@ -1,0 +1,5 @@
+2022-12-14 09:43:51.952 +00:00 [INF] Now listening on: https://localhost:7094
+2022-12-14 09:43:52.070 +00:00 [INF] Now listening on: http://localhost:5094
+2022-12-14 09:43:52.095 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-14 09:43:52.100 +00:00 [INF] Hosting environment: Development
+2022-12-14 09:43:52.102 +00:00 [INF] Content root path: C:\Users\teg00\repos\HotelListing.API\HotelListing.API\
